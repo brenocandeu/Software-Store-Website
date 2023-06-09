@@ -19,6 +19,10 @@
   O objetivo deste projeto é demonstrar minha capacidade de desenvolver uma aplicação web completa, abrangendo a criação da interface do usuário utilizando HTML, CSS, JavaScript e Bootstrap. Com esta loja de software, busco mostrar minhas habilidades em áreas como design de interface, manipulação de elementos na página, interações dinâmicas e implementação de recursos avançados utilizando as tecnologias mencionadas. O foco principal é aprimorar minhas habilidades em front-end e proporcionar uma experiência agradável aos usuários. Embora o projeto não envolva a implementação de um backend ou recursos de responsividade, busco demonstrar minha evolução e dedicação através deste projeto.
 </p>
 
+<p align="center">
+  <a href="https://brenocandeu.github.io/Software-Store-Website/">Site</a> |
+</p>
+
 <h2 align="center">Redes Sociais</h2>
 
 <p align="justify">Caso queira acompanhar meu trabalho e obter mais informações sobre este projeto e outras iniciativas, você pode me encontrar nas seguintes redes sociais:</p>
