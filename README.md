@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://brenocandeu.github.io/Software-Store-Website/">Site</a>
+  <a href="https://brenocandeu.github.io/Software-Store-Website/">Clique aqui para acessar o site</a>
 </p>
 
 <h2 align="center">Redes Sociais</h2>
